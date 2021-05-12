@@ -354,9 +354,9 @@ a.list-group-item:hover, a.list-group-item:focus {
 	margin:2em 0;
 }
 /*-- //blog --*/
-/*-- banner --*/
+/*-- f --*/
 .banner{
-	background:url(../images/banner.jpg) no-repeat 0px 0px;
+	background:url(../images/e9124e4efc4cfd83794611220a55affd.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -365,7 +365,7 @@ a.list-group-item:hover, a.list-group-item:focus {
 	min-height:800px;
 }
 .banner1{
-	background:url(../images/banner.jpg) no-repeat 0px 0px;
+	background:url(../images/e9124e4efc4cfd83794611220a55affd.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -420,7 +420,7 @@ span.menu{
     display: block;
 }
 .header-left1 ul li.active a{
-	background:#6ea145;
+	background:rgb(184, 108, 121);
     color: #fff;
 }
 /* Sweep To Bottom */
@@ -447,7 +447,7 @@ span.menu{
   left: 0;
   right: 0;
   bottom: 0;
-  background:#6ea145;
+  background:rgb(184, 95, 110);
   -webkit-transform: scaleY(0);
   transform: scaleY(0);
   -webkit-transform-origin: 50% 0;
